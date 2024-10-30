@@ -3,4 +3,22 @@
     background-color: #F2F5ED;
     margin: 0;
     padding: 0;
+    
+}
+
+
+
+.preamble h3 {
+    fill: black;
+    font-size: 3rem;
+    stroke-dasharray: 1 3;
+    stroke-dashoffset: 0;
+    text-shadow: 0 0 2px white;
+    animation: move-lights 2s steps(1, start) infinite;
+}
+
+@keyframes move-lights {
+    50% {
+        stroke-dashoffset: 2;
+    }
 }
