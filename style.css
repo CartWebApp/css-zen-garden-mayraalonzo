@@ -127,7 +127,7 @@ body#css-zen-garden {
   .design-selection ul li a {
   margin-left: -25px;
   padding-left: 25px;
-  background: transparent url(images/waterpad.png) no-repeat 0 50%;
+  background: transparent url(images/waterpad.png)  no-repeat 0 50%;
   line-height: 25px;
   text-decoration: none;
   display: block;
