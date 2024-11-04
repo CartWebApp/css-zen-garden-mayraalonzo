@@ -135,7 +135,7 @@ body#css-zen-garden {
   text-transform: uppercase;
   }
   .design-selection ul li a:hover { 
-  color: #F286FF;
+  color: #7A9C57;
   background-image: url(bullet_flower_on.gif);
   }
   .design-selection ul li a.designer-name {
@@ -146,13 +146,13 @@ body#css-zen-garden {
   display: inline;
   clear: none;
   text-transform: none;
-  color: #B198C5;
+  color: #AFCFA3;
   }
   .design-selection ul li a.designer-name:hover { 
-  color: #F286FF;
+  color: #7A9C57;
   background: transparent url(bullet_stah.gif) no-repeat 100% 50%;
   }
-  .design-selection ul li a.designer-name:hover { color: #F286FF; }
+  .design-selection ul li a.designer-name:hover { color: #7A9C57; }
   
   .design-archives ul li a, .zen-resources ul li a {
   display:block;	
